@@ -17,7 +17,8 @@ Home page with recipe generated:
 Favorites Page with saved recipes:
 
  <img width="1823" alt="Screenshot 2024-11-25 at 2 12 39 PM" src="https://github.com/user-attachments/assets/e8998c8b-09f7-4192-a976-5639509cc719">
-## Wish List
+
+## Features Wish List
 Because of time constraits the layout, and design isn't the most appealing. In the near future, I  would like to add  branding, adjust te colors and fonts and add images to the home page and favorites page. I'd also like to add login functionality so that when users login they see a personalized dashboard. 
 
 My initial idea was to create an app where users can post their recipes as well as look up recipes via the spoonacular api. However, I wasn't able to implement it as merging the data required more time than I had. Additionally, I would like to add features so that users can add their personal recipes, categorize recipes, make notes/comments delete recipes via a button, and rate recipes they've tried. 
