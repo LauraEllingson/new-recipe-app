@@ -44,8 +44,15 @@ Clone the repository in VS code, then open up a terminal and install dependencie
 
 * To deploy to Heroku, you''ll need to have an account. Once your Heroku account is created, follow the instructions on Heroku to create and deploy the app. Make sure to add your environmental variables in your .env to the Config Vars on Heroku (located under the settings tab). Your app will not work if the Spoonacular API Key isn't added, and the favorites tab will not work if your Mongo URI isn't added. 
 
-This app was created by Laura Ellingson for course MMC6278:Advanced Web Topics 2. 
-v1.0 11/24/2024
+This app was created by:
+ 
+ Laura Ellingson 
+ 
+ MMC6278
+ 
+ Advanced Web Topics 2. 
+ 
+ v1.0 11/24/2024
 
 
 ```
