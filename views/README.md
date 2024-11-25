@@ -4,10 +4,10 @@ Generate random recipes for fun and save the ones you like!
 
 ## Description
 
-Clickung the get random recipe button will generate a new recipe using the spoonacular api. You have the option to save any recipe that you like to your favorites. clicking the favorites link will take you to a page with all your faovrite recipes. 
+Clicking the get random recipe button will generate a new recipe using the spoonacular api. You have the option to save any recipe that you like to your favorites. clicking the favorites link will take you to a page with all your faovrite recipes. 
 
 ## Getting Started
-clone the repository in VS code. then open up a terminal and install dependencies using npm i
+clone the repository in VS code, then open up a terminal and install dependencies using npm i
 
 ### Dependencies
 
