@@ -5,10 +5,18 @@ Generate random recipes for fun and save the ones you like!
 ## Description
 
 Clicking the get random recipe button will generate a new recipe using the spoonacular api. You have the option to save any recipe that you like to your favorites. If you don't like the recipe that was generaterd click on the get random recipe button again and a new recipe will be generated. The Favorites link will take you to a page with all of the recipes you've saved.
-Home page: <img width="510" alt="Screenshot 2024-11-25 at 2 11 43 PM" src="https://github.com/user-attachments/assets/6948dc44-f17e-42c7-b700-23b3d20c0f62">
-Home page with recipe generated:  <img width="505" alt="Screenshot 2024-11-25 at 2 11 54 PM" src="https://github.com/user-attachments/assets/d5ea21dc-7bb3-4913-a61c-968947c6dc93">
-Home Page when recipe is generated: 
-Favorites Page with saved recipes: <img width="1823" alt="Screenshot 2024-11-25 at 2 12 39 PM" src="https://github.com/user-attachments/assets/e8998c8b-09f7-4192-a976-5639509cc719">
+
+Home page:
+
+ <img width="510" alt="Screenshot 2024-11-25 at 2 11 43 PM" src="https://github.com/user-attachments/assets/6948dc44-f17e-42c7-b700-23b3d20c0f62">
+
+Home page with recipe generated: 
+
+ <img width="505" alt="Screenshot 2024-11-25 at 2 11 54 PM" src="https://github.com/user-attachments/assets/d5ea21dc-7bb3-4913-a61c-968947c6dc93">
+
+Favorites Page with saved recipes:
+
+ <img width="1823" alt="Screenshot 2024-11-25 at 2 12 39 PM" src="https://github.com/user-attachments/assets/e8998c8b-09f7-4192-a976-5639509cc719">
 ## Wish List
 Because of time constraits the layout, and design isn't the most appealing. In the near future, I  would like to add  branding, adjust te colors and fonts and add images to the home page and favorites page. I'd also like to add login functionality so that when users login they see a personalized dashboard. 
 
@@ -17,7 +25,7 @@ My initial idea was to create an app where users can post their recipes as well 
 Finally, allowing users to keep a private recipe library and also create a public facing recipe librariy where other users can see a collection of their personal/favorite recipes (like a recipe book) would be something I'd love to implement as well. While, I'm not quite done, this projects has been rewarding despite the many issues I had learning how to create an MVC app using Nodejs, MongoDB and handlebars. 
 
 ## Getting Started
-clone the repository in VS code, then open up a terminal and install dependencies using npm i
+Clone the repository in VS code, then open up a terminal and install dependencies using npm i
 
 ### Dependencies
 
