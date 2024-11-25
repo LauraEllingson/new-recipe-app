@@ -52,5 +52,5 @@ Clone the repository in VS code, then open up a terminal and install dependencie
 ```
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE.md file for details
 
