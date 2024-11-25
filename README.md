@@ -47,12 +47,8 @@ Clone the repository in VS code, then open up a terminal and install dependencie
 This app was created by:
  
  Laura Ellingson 
- 
- MMC6278
- 
- Advanced Web Topics 2. 
- 
- v1.0 11/24/2024
+ MMC6278: Advanced Web Topics 2 
+ 11/24/2024: v1.0
 
 
 ```
