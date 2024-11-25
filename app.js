@@ -4,6 +4,7 @@ const path = require("path");
 const exphbs = require("express-handlebars");
 const connectDB = require("./config/db");
 const routes = require("./routes"); // Import routes/index.js
+const favoritesRoutes = require("./routes/favoritesRoutes");
 
 const app = express();
 
@@ -23,10 +24,13 @@ app.use(express.static(path.join(__dirname, "public")));
 // Use routes from routes/index.js
 app.use("/", routes);
 
-// Default route (optional, can be defined in routes/index.js instead)
+
+// Default route 
 app.get("/", (req, res) => {
   res.render("index", { title: "Recipe Finder" });
 });
+
+app.use("/favorites", favoritesRoutes);
 
 // Start server
 const PORT = process.env.PORT || 3000;
