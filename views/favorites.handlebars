@@ -1,0 +1,22 @@
+<h1>Your Favorite Recipes</h1>
+{{#if recipes.length}}
+<div class="recipe-container">
+    {{#each recipes}}
+    <div class="recipe-card">
+        <h3>{{this.title}}</h3>
+        <img src="{{this.image}}" alt="{{this.title}}" style="width:200px;">
+        <h4>Ingredients:</h4>
+        <ul>
+            {{#each this.ingredients}}
+            <li>{{this}}</li>
+            {{/each}}
+        </ul>
+        <h4>Instructions:</h4>
+        <p>{{this.instructions}}</p>
+    </div>
+    {{/each}}
+</div>
+{{else}}
+<p>No recipes saved yet. Go back and save some!</p>
+{{/if}}
+
